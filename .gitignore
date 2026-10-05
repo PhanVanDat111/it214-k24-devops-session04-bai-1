@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+.env
+
+# GitHub Uploader Config
+.github_uploader_config.json
+config.json
